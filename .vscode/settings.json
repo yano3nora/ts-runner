@@ -1,0 +1,6 @@
+{
+  // https://github.com/formulahendry/vscode-code-runner/issues/162#issuecomment-323246500
+  "code-runner.executorMap": {
+    "typescript": "node_modules/.bin/ts-node"
+  }
+}
