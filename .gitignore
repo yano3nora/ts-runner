@@ -2,3 +2,4 @@ node_modules
 input.txt
 src/*
 !src/hello-world.ts
+!src/hello-world-cjs.ts

@@ -1,7 +1,7 @@
 import fs from 'fs'
 
-function main(input: string): void {
+function helloWorld(input: string): void {
   console.log('hello ' + input)
 }
 
-main(fs.readFileSync('/dev/stdin', 'utf8'))
+helloWorld(fs.readFileSync('/dev/stdin', 'utf8'))
